@@ -13,7 +13,7 @@ TBA
 2. Read the menu option the program will display
 3. Choose the option you want to perform
 4. Input the variables that are asked
-5. Inspect the final list of books that meet your criteria either in the console or through the generated PDF file
+5. Inspect the final list of books that meet your criteria in the console
 6. To quit the program input "q" or "Q" in the menu
 # Description
 In a first step, all of the relevant libraries were downloaded. A list was then created with all books in the data file. Afterwards the list was cleaned to be processed and displayed in a more comprehensive manner. Finally, the following 4 main functions for the menu option were defined:
