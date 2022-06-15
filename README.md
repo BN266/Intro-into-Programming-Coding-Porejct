@@ -26,3 +26,9 @@ In a first step, all of the relevant libraries were downloaded. A list was then 
 - The fourth function is the search by the title of the book. The program asks the user for a string input and then returns the subset of books that fulfill the criteria. If the user selects an invalid input, the program will display an appropriate message. All books from the subset will be displayed in alphabetical order with the following information: title, author and date it reached number 1.
 
 Finally, the loop for the menu function was defined. The user can input "1", "2", "3" or "4" to run the first, second, third or fourth function, respectively. If the user selects an invalid input, the program will display an appropriate error message. The loop continues to run until the user decides to quit the program by entering "q" or "Q".
+# Sample output
+TBA
+# Sources
+TBA
+# Licensing
+TBA
