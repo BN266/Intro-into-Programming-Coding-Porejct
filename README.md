@@ -9,7 +9,7 @@ The goal of this Python project is to process a data file which contains the top
 # Prerequisites
 TBA
 # Instructions
-1. Open the main.py Python project and run it
+1. Open the project.py Python project and run it
 2. Read the menu option the program will display
 3. Choose the option you want to perform
 4. Input the variables that are asked
