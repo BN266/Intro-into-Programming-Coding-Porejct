@@ -1,9 +1,9 @@
 # Intro-into-Programming-Coding-Project
 **Authors**: XXX
 # Group Project
-This is a group proect carried by out students of the University of St. Gallen in the spring semester 2022 as part of the following course:
+This is a group proect carried by out students of the University of St. Gallen in the spring semester 2022 as part of the following courses:
 - 3,793,1.00 - Skills: Programming - Introduction Level
-- 7,789 | 8,789: Skills: Programming with Advanced Computer Languages
+- 7,789,1.00 - Skills: Programming with Advanced Computer Languages
 # About
 The goal of this Python project is to process a data file which contains the top 50 bestselling books on Amazon from 2009-2019. A list of all books is created from which the user may select from various functions to get a subset of books which match the selected criteria.
 # Prerequisites
