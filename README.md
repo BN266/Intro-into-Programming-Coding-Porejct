@@ -1,5 +1,5 @@
 # Intro-into-Programming-Coding-Project
-This is the offical Github Repository for our Group Project in the course: "Introduction into Programming"
+**Authors**: XXX
 # Group Project
 This is a group proect carried by out students of the University of St. Gallen in the spring semester 2022 as part of the following course:
 - 7,789 | 8,789: Skills: Programming with Advanced Computer Languages
