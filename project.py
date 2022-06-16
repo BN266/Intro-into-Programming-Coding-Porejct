@@ -1,4 +1,5 @@
 import requests
+from datetime import date
 
 def download_bestsellers():
     try:
@@ -27,17 +28,27 @@ def selection_menu(inpt=None):
 
 def books_year(bestsellers):
     while True:
-        start = input("Enter beginning year: ")
+        start = input("Please enter a year between 1942 and " + str(date.today().year - 1) + "\nEnter beginning year: ")
         try:
             start = int(start)
-            break
+
+            # check if the input date is between 1942 and now
+            if start < date.today().year and start >= 1942:
+                break
+            else:
+                print("Invalid date: Please enter a year between 1942 and " + str(date.today().year - 1) + ".")
         except:
             print("Please enter a valid beginning year.")
     while True:
-        end = input("Enter ending year: ")
+        end = input("Please enter a year between 1942 and " + str(date.today().year - 1) + "\nEnter ending year: ")
         try:
             end = int(end)
-            break
+
+            # check if the input date is between 1942 and now
+            if end < date.today().year and end >= 1942:
+                break
+            else:
+                print("Invalid date: Please enter a year between 1942 and " + str(date.today().year - 1) + ".")
         except:
             print("Please enter a valid ending year.")
     print("")
@@ -45,6 +56,7 @@ def books_year(bestsellers):
         temp = end
         end = start
         start = temp
+
     print(f"All titles between {start} and {end}:")
     c = 0
     for book in bestsellers:
@@ -71,7 +83,12 @@ def books_month(bestsellers):
         year = input("Enter year: ")
         try:
             year = int(year)
-            break
+
+            # check if the year input date is between 1942 and now
+            if year < date.today().year and year >= 1942:
+                break
+            else:
+                print("Invalid date: Please enter a year between 1942 and " + str(date.today().year - 1) + ".")
         except:
             print("Please enter a valid year.")
     print("")
