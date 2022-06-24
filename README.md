@@ -1,6 +1,4 @@
 # Intro-into-Programming-Coding-Project
-**Authors**: XXX
-# Group Project
 This is a group project carried by out students of the University of St. Gallen in the spring semester 2022 as part of the following courses:
 - 3,793,1.00 - Skills: Programming - Introduction Level
 - 7,789,1.00 - Skills: Programming with Advanced Computer Languages
