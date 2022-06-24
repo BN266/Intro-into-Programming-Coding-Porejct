@@ -33,8 +33,8 @@ What task do you want to perform?
  4: Search for title
  5: Quit
 1
-Enter beginning year: 2011
-Enter ending year
+Enter beginning year: 2005
+Enter ending year: 2005
 
 All titles between 2005 and 2005:
 4th of July, by James Patterson (5/22/2005)
