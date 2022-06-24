@@ -24,7 +24,7 @@ In a first step, all of the relevant libraries were downloaded. A list was then 
 
 Finally, the loop for the menu function was defined. The user can input "1", "2", "3" or "4" to run the first, second, third or fourth function, respectively. If the user selects an invalid input, the program will display an appropriate error message. The loop continues to run until the user decides to quit the program by entering "q" or "Q".
 # Sample output
-## Look up year range
+### 1: Look up year range
 ```
 What task do you want to perform?
  1: Look up year range
@@ -75,7 +75,7 @@ The Truth (With Jokes), by Al Franken (11/13/2005)
 The World Is Flat, by Thomas L. Friedman (5/15/2005)
 ```
 
-## Look up month/year
+### 2: Look up month/year
 ```
 What would you like to do?
 1: Look up year range
@@ -93,7 +93,7 @@ Blood Brother, by Anne Bird (3/20/2005)
 Juiced, by Jose Canseco (3/6/2005)
 ```
 
-## Search for an author
+### 3: Search for an author
 ```
 What would you like to do?
 1: Look up year range
@@ -109,7 +109,7 @@ The Book of Virtues, by William J. Bennett (1/16/1994)
 The Death of Outrage, by William J. Bennett (10/4/1998)
 ```
 
-## Search for title
+### 4: Search for title
 ```
 What would you like to do?
 1: Look up year range
@@ -126,7 +126,7 @@ Harry Potter and the Chamber of Secrets, by J. K. Rowling (6/20/1999)
 Harry Potter and the Prisoner of Azkaban, by J. K. Rowling (9/26/1999)
 Harry Potter and the Sorcerer's Stone, by J. K. Rowling (8/15/1999)
 ```
-## Quit
+### 5: Quit
 ```
 What would you like to do?
 1: Look up year range
